@@ -1,0 +1,5 @@
+0 Nothing
+1 paper
+2 food waste
+3 metal
+4 plastic
